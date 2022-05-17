@@ -1,0 +1,55 @@
+/*BODY*/
+body {
+    background-color: rgb(255,255,255);
+}
+/*LOGO*/
+.logo {
+    text-align: center;
+}
+/*SEARCH*/
+.search {
+    background-color: rgb(238,238,238);
+    height: 60px;
+    width: 1200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*ALT*/
+.alt {
+    margin-top: 2px;
+    margin-left: 75px;
+}
+.alt1 {
+    background-color: rgb(126,229,218);
+    height: 71px;
+    width: 440px;
+    text-align: center;
+    float: left;
+    padding-top: 10px;
+}
+.alt2 {
+    background-color: rgb(112,204,194);
+    height: 74px;
+    width: 238px;
+    padding-top: 7px;
+    float: left;
+    text-align: center;
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: 13px;
+}
+.alt3 {
+    background-color: rgb(98,179,170);
+    text-align: center;
+    height: 75px;
+    padding-top: 6px;
+    width: 518px;
+    float: left;
+    font-size: 13px;
+}
+/*Son*/
+.son {
+    text-align: center;
+    font-size: small;
+}
